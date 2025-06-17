@@ -8,7 +8,7 @@ This Python script uses OpenCV to detect motion using background subtraction . I
 
 
 ## Requirements
-To run the edge detection script, you need to have Python and the OpenCV library installed. You can install OpenCV using pip:
+You need to have Python and the OpenCV library installed. You can install OpenCV using pip:
 
 ```bash
 git clone https://github.com/Vedant-0102/Motion-Detection.git
