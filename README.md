@@ -17,7 +17,6 @@ git clone https://github.com/Vedant-0102/Motion-Detection.git
 ```bash
 pip install opencv-python numpy
 
-python.exe -m pip install --upgrade pip
 ```
 ## Usage
 To use the edge detection script, you can run it from the command line with the following syntax:
